@@ -1,0 +1,6 @@
+Feature: This feature is using for test the UI of 
+Scenario: Verify that the UI of Restaurant page display properly
+Given Open the Restaurant page
+Then I should seee...
+Then I should see...
+Scenario: Verify that the Restaurant page functions works properly  

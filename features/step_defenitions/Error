@@ -1,0 +1,6 @@
+expected to find css ".dish-box-wrapper .dish-box-inner-wrapper .expanded .dish-cat-logo" but there were no matches. Also found "", "", "", "", "", "", "", "", "", which matched the selector but not all filters. (Capybara::ExpectationNotMet)
+      ./features/step_defenitions/TC_007.rb:140:in `block (3 levels) in <top (required)>'
+      ./features/step_defenitions/TC_007.rb:138:in `block (2 levels) in <top (required)>'
+      ./features/step_defenitions/TC_007.rb:134:in `each'
+      ./features/step_defenitions/TC_007.rb:134:in `/^Ipoh the search result should return properly/'
+      features/TC_007.feature:33:in `Then Ipoh the search result should return properly'
